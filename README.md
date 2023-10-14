@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="seinkwon97@yonsei.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=seinkwon97@yonsei.ac.kr&logoColor=white"/></a>
+<a href="seinkwon97@yonsei.ac.kr" target="_blank"><img src="https://img.shields.io/badge/seinkwon@yonsei.ac.kr-EA4335?style=flat&logo=seinkwon97@yonsei.ac.kr&logoColor=white"/></a>
 <!--
 **Kwon-sein/Kwon-sein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
