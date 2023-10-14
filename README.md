@@ -1,8 +1,10 @@
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seinkwon97@yonsei.ac.kr" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Gmail-F06B66?style=flat&logo=seinkwon97@yonsei.ac.kr&logoColor=white"/></a>
+<br/>
 Hi there 👋 <br/>
 I am a **Master degree** student at Yonsei University DataEngineeringLab. 👩‍🎓<br/>
 My research area is **Tuning Database Parameters** using various machine learning techniques. 🚀<br/>
-<br/><br/>
-<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seinkwon97@yonsei.ac.kr" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Gmail-F06B66?style=flat&logo=seinkwon97@yonsei.ac.kr&logoColor=white"/></a>
+
+
 <!--
 **Kwon-sein/Kwon-sein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
