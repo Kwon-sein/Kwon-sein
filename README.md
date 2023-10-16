@@ -1,6 +1,6 @@
 <br/>
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seinkwon97@yonsei.ac.kr" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Gmail-F06B66?style=flat&logo=seinkwon97@yonsei.ac.kr&logoColor=white"/></a>
-<a href="https://scholar.google.co.kr/citations?hl=ko&user=tWk4wMoAAAAJ" target="_blank" target="_blank"><img src="https://img.shields.io/badge/googlescholar-#4285F4?style=flat&logo=googlescholar&logoColor=white"/></a>
+<a href="https://scholar.google.co.kr/citations?hl=ko&user=tWk4wMoAAAAJ" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-#4285F4?style=flat&logo=/Google Scholar&logoColor=white"/></a>
 
 
 -------------------------------------------------------------------------------------------------------
