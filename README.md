@@ -10,7 +10,7 @@ Hi there 👋 <br/>
 * I am studying and researching hard in the DataEngineering Lab. 🐤🤪
 * My currently research area is **Database Parameters Tuning** using various machine learning techniques. 🚀<br/>
 -------------------------------------------------------------------------------------------------------
-![ZZang-Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=material-palenight_icons=true)
+![ZZang-Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzang_sein&theme=material-palenight_icons=true)
 <!--
 **Kwon-sein/Kwon-sein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
