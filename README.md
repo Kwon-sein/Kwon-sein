@@ -6,7 +6,7 @@
 
 -------------------------------------------------------------------------------------------------------
 ### Hi there 👋 <br/>
-* I am a **Master degree** student at Yonsei University. 👩‍🎓<br/>
+* I am a **integrated master's/PhD program** student at Yonsei University. 👩‍🎓<br/>
 * I am studying and researching hard in the DataEngineering Lab. 🐤🤪
 * My currently research area is **Database Parameters Tuning** using various machine learning techniques. 🚀<br/>
 -------------------------------------------------------------------------------------------------------
