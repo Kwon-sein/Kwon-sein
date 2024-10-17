@@ -7,7 +7,7 @@
 -------------------------------------------------------------------------------------------------------
 ### Hi there 👋 <br/>
 * I am a **integrated master's/PhD program** student at Yonsei University. 👩‍🎓<br/>
-* I am studying and researching hard in the DataEngineering Lab. 🐤🤪
+* I am studying and researching in the DataEngineering Lab. 🐤🤪
 * My currently research area is **Database Parameters Tuning** using various machine learning techniques. 🚀<br/>
 -------------------------------------------------------------------------------------------------------
 ![ZZang-Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwon-sein&theme=material-palenight&icons=true)
