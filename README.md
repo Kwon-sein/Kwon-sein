@@ -5,7 +5,7 @@
 
 
 -------------------------------------------------------------------------------------------------------
-### Hi there 👋 <br/>
+### Hi there 👋👋 <br/>
 * I am a **integrated master's/PhD program** student at Yonsei University. 👩‍🎓<br/>
 * I am studying and researching in the [Data Engineering Lab](http://delab.yonsei.ac.kr/).
 * My currently research area is **Automatic Database Parameters Tuning** using various machine learning techniques. 🚀<br/>
