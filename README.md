@@ -7,9 +7,9 @@
 -------------------------------------------------------------------------------------------------------
 ### Hi there 👋 <br/>
 * I am a **integrated master's/PhD program** student at Yonsei University. 👩‍🎓<br/>
-* I am studying and researching in the [DataEngineering Lab](http://delab.yonsei.ac.kr/).
+* I am studying and researching in the [Data Engineering Lab](http://delab.yonsei.ac.kr/).
 * My currently research area is **Automatic Database Parameters Tuning** using various machine learning techniques. 🚀<br/>
-### [What is the Automatic Database Parameter Tuning?](https://github.com/Kwon-sein/Database-Tuning/blob/main/Automatic%20Database%20Configuration%20Tuning_%EC%88%98%EC%A0%95%EB%B3%B8.pdf) ❓
+[What is the Automatic Database Parameter Tuning?](https://github.com/Kwon-sein/Database-Tuning/blob/main/Automatic%20Database%20Configuration%20Tuning_%EC%88%98%EC%A0%95%EB%B3%B8.pdf) ❓
 -------------------------------------------------------------------------------------------------------
 ![ZZang-Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwon-sein&theme=material-palenight&icons=true)
 
