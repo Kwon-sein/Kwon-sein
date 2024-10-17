@@ -10,7 +10,7 @@
 * I am studying and researching in the DataEngineering Lab. 🐤🤪
 * My currently research area is **Database Parameters Tuning** using various machine learning techniques. 🚀<br/>
 ### What is the Autumatic Database Parameter Tuning?
-![image](https://github.com/user-attachments/assets/15184bdd-cc54-44c8-b916-4591bbdbde17)(./Database=Tuning/Automatic Database Configuration Tuning_수정본.pdf)
+![image](https://github.com/user-attachments/assets/15184bdd-cc54-44c8-b916-4591bbdbde17)(./Database-Tuning/Automatic Database Configuration Tuning_수정본.pdf)
 
 -------------------------------------------------------------------------------------------------------
 ![ZZang-Sein's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kwon-sein&theme=material-palenight&icons=true)
