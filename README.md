@@ -2,8 +2,8 @@
 <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=seinkwon97@yonsei.ac.kr" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Gmail-F06B66?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://scholar.google.co.kr/citations?hl=ko&user=tWk4wMoAAAAJ" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Google Scholar-4285F4?style=flat&logo=Google Scholar&logoColor=white"/></a>
 <a href="https://ssensnote.tistory.com/" target="_blank" target="_blank"><img src="https://img.shields.io/badge/Tistory-5AB552?style=flat&logo=tistory&logoColor=white"/></a>
-
-
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="seinkwon-508a33320" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/seinkwon-508a33320?trk=profile-badge">권세인</a></div>
+              
 -------------------------------------------------------------------------------------------------------
 ### Hi there 👋👋 <br/>
 * I am a **integrated master's/PhD program** student at Yonsei University. 👩‍🎓<br/>
